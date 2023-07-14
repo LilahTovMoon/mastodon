@@ -21,6 +21,7 @@ en:
             username:
               invalid: must contain only letters, numbers and underscores
               reserved: is reserved
+              disallowed: is disallowed
         admin/webhook:
           attributes:
             url:

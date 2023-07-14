@@ -420,6 +420,7 @@ GEM
     minitest (5.18.1)
     msgpack (1.7.1)
     multi_json (1.15.0)
+    multi_string_replace (2.0.1)
     multipart-post (2.3.0)
     net-http (0.3.2)
       uri
@@ -824,6 +825,7 @@ DEPENDENCIES
   mario-redis-lock (~> 1.2)
   memory_profiler
   mime-types (~> 3.4.1)
+  multi_string_replace
   net-http (~> 0.3.2)
   net-ldap (~> 0.18)
   nokogiri (~> 1.15)
